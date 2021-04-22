@@ -1,8 +1,10 @@
 title: Shalini Gangwar # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <br>Data Scientist at Verizon<br>
-  <it>"know yourself and you will win all battles" ― Sun Tzu<it>
+  <b>Data Scientist at Verizon</b>
+  <br><br>
+  <i>"know yourself and you will win all battles" ― Sun Tzu</i>
+  <br><br>
   <a href="https://www.linkedin.com/in/shelly2904/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
