@@ -2,7 +2,12 @@
 
 ---
 
+### Resume
 Find my [resume](/pdf/Resume.pdf)
+
+### Skillset:
+
+#### Packages: Numpy, Pandas, Matplotlib, Fbprophet
 
 ### Category Name 1 
 
