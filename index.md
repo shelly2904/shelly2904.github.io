@@ -7,7 +7,17 @@ Find my [resume](/pdf/Resume.pdf)
 
 ### Skillset:
 
-#### Packages: Numpy, Pandas, Matplotlib, Fbprophet
+### Domain:
+Finance, Telecom
+
+### Programming Languages:
+Python, Scala, SQL
+
+### Domain:
+Machine Learning, Time series, Data Analytics
+
+#### Packages: 
+Numpy, Pandas, Matplotlib, Fbprophet
 
 ### Category Name 1 
 
