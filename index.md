@@ -7,13 +7,13 @@ Find my [resume](/pdf/Resume.pdf)
 
 ### Skillset:
 
-### Domain:
+#### Domain:
 Finance, Telecom
 
-### Programming Languages:
+#### Programming Languages:
 Python, Scala, SQL
 
-### Domain:
+#### Domain:
 Machine Learning, Time series, Data Analytics
 
 #### Packages: 
